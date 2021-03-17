@@ -21,6 +21,8 @@
     "mocha": "^8.3.2"
   },
   "dependencies": {
-    "chai": "^4.3.4"
+    "axios": "^0.21.1",
+    "chai": "^4.3.4",
+    "express": "^4.17.1"
   }
 }
